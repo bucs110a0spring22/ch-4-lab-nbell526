@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < my program is able to display the curves for cos, sin, and tan in different colors >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 1 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 4 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
- < List any outside resources used >
+ < class notes and textbook >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < couldnt figure out how to get the sin curve to not make that line >
